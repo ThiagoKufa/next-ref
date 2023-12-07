@@ -1,0 +1,27 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "workbench.colorTheme": "OM Theme (No Italic)",
+  "editor.fontSize": 20,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.activityBar.location": "top",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "[snippets]": {}
+}
